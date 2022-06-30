@@ -1,6 +1,8 @@
-# Getting Started with Create React App
+# It's just a clean looking weather app with changable backgrounds created using react, openweathermap api and advanced css.
 
-It's just a clean looking weather app for anime enthusiasts, using react, openweather api and advanced css.
+You need to get your own API Key from https://openweathermap.org/ and put it in app.js
+
+# Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
