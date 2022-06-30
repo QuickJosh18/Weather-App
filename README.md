@@ -3,7 +3,7 @@
     <img src="/weatherapp2.png">
 </p>
 
-#It's just a clean looking weather app with changable backgrounds created using react, openweathermap api and advanced css.
+# It's just a clean looking weather app with changable backgrounds created using react, openweathermap api and advanced css.
 
 You need to get your own API Key from https://openweathermap.org/ and put it in app.js
 
