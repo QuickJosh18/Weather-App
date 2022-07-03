@@ -35,7 +35,7 @@ function App() {
     return `${day}, ${date} ${month} ${year}`
   }
 
-  const bgWeather = (bgweath) => {
+  const bgWeather = () => {
     if (typeof weather.main != "undefined") {
       if (weather.weather[0].main === 'Clear') return 'app warm'
       else if (weather.weather[0].main === 'Snow') return 'app snow'
