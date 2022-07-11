@@ -3,7 +3,7 @@ import { useState } from 'react';
 import Footer from './components/footer';
 
 const api = {
-  key: "YOUR GENERATED KEY",
+  key: "95c2990491dde8a2208458d14b2a4081",
   base: "https://api.openweathermap.org/data/2.5/"
 }
 
